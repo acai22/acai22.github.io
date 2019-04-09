@@ -209,7 +209,7 @@
       <link href="/passages/jiaowuxitong/"/>
       <url>/passages/jiaowuxitong/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="http://www.axhu.cn/zjbxydt.html" target="_blank" rel="noopener">新华官网</a><br><a href="http://jwc.axhu.edu.cn/" target="_blank" rel="noopener">新华学院教务处</a><br><a href="10.2.0.50">新华自助上网系统</a>ip地址：10.2.0.50(校内网访问)<br><a href="http://tms.axhu.edu.cn/" target="_blank" rel="noopener">教务管理系统登录口</a>(校内网访问)<br><a href>成绩查询</a>(待开放)<br><a href>课表查询</a>(待开放)</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="http://www.axhu.cn/zjbxydt.html" target="_blank" rel="noopener">新华官网</a><br><a href="http://jwc.axhu.edu.cn/" target="_blank" rel="noopener">新华学院教务处</a><br><a href="10.2.0.50">新华自助上网系统</a>ip地址：10.2.0.50(校内网访问)<br><a href="http://tms.axhu.edu.cn/" target="_blank" rel="noopener">教务管理系统登录口</a>(校内网访问)<br><a href="http://frps.hyacm.com:50080" target="_blank" rel="noopener">教务管理系统登录口</a>(外网访问，测试)<br><a href="http://frps.hyacm.com:55000/score" target="_blank" rel="noopener">成绩查询</a>(测试)<br><a href="http://frps.hyacm.com:55000/schedule" target="_blank" rel="noopener">课表查询</a>(测试)<br><a href="http://frps.hyacm.com:55000/info" target="_blank" rel="noopener">个人信息查询</a>(测试)</p>]]></content>
       
       
       
@@ -243,31 +243,6 @@
     
     
     <entry>
-      <title>校方国庆节活动</title>
-      <link href="/passages/xiaofanghuodong1/"/>
-      <url>/passages/xiaofanghuodong1/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="width:100%; height:90px; display:block; visibility:visible; border-width:1px; border-color:#F7FFF4; border-style:dashed; background-color:#FFFBF4; ">        <div style="width:30%; height:100%;float:left;position:relative;text-align:center;">            <img style="border-radius:50%;width:80px;height:80px;position:absolute;margin-top:5px" src="/images/img/xinhua.png"></div>        <div style="width:67%; height:100%; float:left;display:table-cell;text-align:center;vertical-align: middle;">            <p style="margin-top:31px;font-weight:bold;">安徽新华学院</p>         </div></div><ol><li>全校开展“歌颂祖国、爱我中华”的经典诵读比赛。时间为9月30日下午两点。</li><li>评比标准： 　　<br>(1) 仪态大方、着装得体、动作适当。 　　<br>(2) 所选诗歌内容必须是以歌颂祖国为主题。思想健康向上，符合学生年龄特点。 　　<br>(3) 普通话标准、声音洪亮。 　　<br>(4) 读出诗歌的韵味，语气、语调适当;重音、节奏恰当。 　　<br>(5) 表达诗歌的情感准确自然。 　　<br>(6) 现场演出效果好。 　　<h3 id="活动具体要求："><a href="#活动具体要求：" class="headerlink" title="活动具体要求： 　　"></a>活动具体要求： 　　</h3></li><li>以中队为单位参加比赛，各年级段分别评奖，各中队原则上要求全体队员参加。本次活动将评出一等奖2个，二等奖2个，三等奖4个，优秀奖若干。一二等奖将设立奖金，以资鼓励。 　　</li><li>诵读内容积极向上，颂扬美德，崇尚感恩，传诵经典，表达自己对祖国的热爱。 　　</li><li>1-3年级可以选择《经典诵读读本》和童谣，4-6年级选择歌颂祖国的诗歌或散文朗诵。 　　</li><li>活动主要负责人及分工： 　　<br>评委:×× 　　<br>统分员：×× 　　<br>会场布置：××(音响)×× </li></ol>]]></content>
-      
-      
-      <categories>
-          
-          <category> 校方活动 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 校方活动 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>箱包</title>
       <link href="/passages/shangjiahuodong1/"/>
       <url>/passages/shangjiahuodong1/</url>
@@ -285,6 +260,31 @@
         <tags>
             
             <tag> 商家活动 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>校方国庆节活动</title>
+      <link href="/passages/xiaofanghuodong1/"/>
+      <url>/passages/xiaofanghuodong1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="width:100%; height:90px; display:block; visibility:visible; border-width:1px; border-color:#F7FFF4; border-style:dashed; background-color:#FFFBF4; ">        <div style="width:30%; height:100%;float:left;position:relative;text-align:center;">            <img style="border-radius:50%;width:80px;height:80px;position:absolute;margin-top:5px" src="/images/img/xinhua.png"></div>        <div style="width:67%; height:100%; float:left;display:table-cell;text-align:center;vertical-align: middle;">            <p style="margin-top:31px;font-weight:bold;">安徽新华学院</p>         </div></div><ol><li>全校开展“歌颂祖国、爱我中华”的经典诵读比赛。时间为9月30日下午两点。</li><li>评比标准： 　　<br>(1) 仪态大方、着装得体、动作适当。 　　<br>(2) 所选诗歌内容必须是以歌颂祖国为主题。思想健康向上，符合学生年龄特点。 　　<br>(3) 普通话标准、声音洪亮。 　　<br>(4) 读出诗歌的韵味，语气、语调适当;重音、节奏恰当。 　　<br>(5) 表达诗歌的情感准确自然。 　　<br>(6) 现场演出效果好。 　　<h3 id="活动具体要求："><a href="#活动具体要求：" class="headerlink" title="活动具体要求： 　　"></a>活动具体要求： 　　</h3></li><li>以中队为单位参加比赛，各年级段分别评奖，各中队原则上要求全体队员参加。本次活动将评出一等奖2个，二等奖2个，三等奖4个，优秀奖若干。一二等奖将设立奖金，以资鼓励。 　　</li><li>诵读内容积极向上，颂扬美德，崇尚感恩，传诵经典，表达自己对祖国的热爱。 　　</li><li>1-3年级可以选择《经典诵读读本》和童谣，4-6年级选择歌颂祖国的诗歌或散文朗诵。 　　</li><li>活动主要负责人及分工： 　　<br>评委:×× 　　<br>统分员：×× 　　<br>会场布置：××(音响)×× </li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 校方活动 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 校方活动 </tag>
             
         </tags>
       
@@ -320,6 +320,25 @@
     
     
     <entry>
+      <title>社团分类</title>
+      <link href="/passages/shetuanfenlei/"/>
+      <url>/passages/shetuanfenlei/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><a id="more"></a><p><img src="/images/img/IMG_20190322_143605.jpg" alt></p><p><div style="width:100%; height:90px; display:block; visibility:visible; border-width:1px; border-color:#F7FFF4; border-style:dashed; background-color:#FFFBF4; ">        <div style="width:90px; height:100%;float:left;position:relative;text-align:center;">            <img style="border-radius:50%;width:80px;height:80px;position:absolute;margin-top:5px" src="/images/img/jixie.jpg"></div>        <div style="width: 100%; height:100%;position: absolute;left: 67px;right:0px;display:table-cell;text-align:center;vertical-align: middle;">                <p style="margin-top:22px;font-weight:bold;">计算机协会</p>            <button onclick="location.href='https://acai66.tk/passages/jixiexinxi'" type="button">社团信息</button> &nbsp;&nbsp;&nbsp;            <button onclick="location.href='https://acai66.tk/tags/计协活动'" type="button">社团活动</button>         </div></div><br></p><p><div style="width:100%; height:90px; display:block; visibility:visible; border-width:1px; border-color:#F7FFF4; border-style:dashed; background-color:#FFFBF4; ">        <div style="width:90px; height:100%;float:left;position:relative;text-align:center;">            <img style="border-radius:50%;width:80px;height:80px;position:absolute;margin-top:5px" src="/images/img/shuxuejianmo.jpg"></div>        <div style="width:100%; height:100%;position: absolute; left: 67px;right:0px;display:table-cell;text-align:center;vertical-align: middle;">            <p style="margin-top:22px;font-weight:bold;">大学生数学建模协会</p>        <button onclick="location.href='https://acai66.tk/passages/shuxuejianmojianjie'" type="button">社团信息</button> &nbsp;&nbsp;&nbsp;            <button onclick="location.href='https://acai66.tk/tags/数学建模活动'" type="button">社团活动</button>         </div></div><br></p><p><div style="width:100%; height:90px; display:block; visibility:visible; border-width:1px; border-color:#F7FFF4; border-style:dashed; background-color:#FFFBF4; ">        <div style="width:90px; height:100%;float:left;position:relative;text-align:center;">            <img style="border-radius:50%;width:80px;height:80px;position:absolute;margin-top:5px" src="/images/img/jianxie.png"></div>        <div style="width:100%; height:100%; position: absolute;left: 67px;right:0px;display:table-cell;text-align:center;vertical-align: middle;">            <p style="margin-top:22px;font-weight:bold;">建筑与工程协会</p>        <button onclick="location.href='https://acai66.tk/passages/jiangongjianjie'" type="button">社团信息</button> &nbsp;&nbsp;&nbsp;            <button onclick="location.href='https://acai66.tk/tags/建工活动'" type="button">社团活动</button>         </div></div><br></p><p>…</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 社团分类 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>学校简介</title>
       <link href="/passages/xuexiaojianjie/"/>
       <url>/passages/xuexiaojianjie/</url>
@@ -337,25 +356,6 @@
         <tags>
             
             <tag> 学校简介 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>社团分类</title>
-      <link href="/passages/shetuanfenlei/"/>
-      <url>/passages/shetuanfenlei/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><a id="more"></a><p><img src="/images/img/IMG_20190322_143605.jpg" alt></p><p><div style="width:100%; height:90px; display:block; visibility:visible; border-width:1px; border-color:#F7FFF4; border-style:dashed; background-color:#FFFBF4; ">        <div style="width:90px; height:100%;float:left;position:relative;text-align:center;">            <img style="border-radius:50%;width:80px;height:80px;position:absolute;margin-top:5px" src="/images/img/jixie.jpg"></div>        <div style="width: 100%; height:100%;position: absolute;left: 67px;right:0px;display:table-cell;text-align:center;vertical-align: middle;">                <p style="margin-top:22px;font-weight:bold;">计算机协会</p>            <button onclick="location.href='https://acai66.tk/passages/jixiexinxi'" type="button">社团信息</button> &nbsp;&nbsp;&nbsp;            <button onclick="location.href='https://acai66.tk/tags/计协活动'" type="button">社团活动</button>         </div></div><br></p><p><div style="width:100%; height:90px; display:block; visibility:visible; border-width:1px; border-color:#F7FFF4; border-style:dashed; background-color:#FFFBF4; ">        <div style="width:90px; height:100%;float:left;position:relative;text-align:center;">            <img style="border-radius:50%;width:80px;height:80px;position:absolute;margin-top:5px" src="/images/img/shuxuejianmo.jpg"></div>        <div style="width:100%; height:100%;position: absolute; left: 67px;right:0px;display:table-cell;text-align:center;vertical-align: middle;">            <p style="margin-top:22px;font-weight:bold;">大学生数学建模协会</p>        <button onclick="location.href='https://acai66.tk/passages/shuxuejianmojianjie'" type="button">社团信息</button> &nbsp;&nbsp;&nbsp;            <button onclick="location.href='https://acai66.tk/tags/数学建模活动'" type="button">社团活动</button>         </div></div><br></p><p><div style="width:100%; height:90px; display:block; visibility:visible; border-width:1px; border-color:#F7FFF4; border-style:dashed; background-color:#FFFBF4; ">        <div style="width:90px; height:100%;float:left;position:relative;text-align:center;">            <img style="border-radius:50%;width:80px;height:80px;position:absolute;margin-top:5px" src="/images/img/jianxie.png"></div>        <div style="width:100%; height:100%; position: absolute;left: 67px;right:0px;display:table-cell;text-align:center;vertical-align: middle;">            <p style="margin-top:22px;font-weight:bold;">建筑与工程协会</p>        <button onclick="location.href='https://acai66.tk/passages/jiangongjianjie'" type="button">社团信息</button> &nbsp;&nbsp;&nbsp;            <button onclick="location.href='https://acai66.tk/tags/建工活动'" type="button">社团活动</button>         </div></div><br></p><p>…</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 社团分类 </tag>
             
         </tags>
       
